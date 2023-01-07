@@ -226,7 +226,7 @@ a {
 
 /* this is a class that will be given to an empty div that will be a square with the images of products */
 .shop {
-    width: 400px;
+    width: 33%;
     height: 300px;
     border-radius: 8px;
     margin-right: 10px;
